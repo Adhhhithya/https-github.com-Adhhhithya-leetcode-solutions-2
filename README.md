@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1463-cherry-pickup-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
