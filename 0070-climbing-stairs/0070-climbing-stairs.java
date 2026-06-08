@@ -1,18 +1,13 @@
 class Solution {
     public int climbStairs(int n) {
         int dp[] = new int[n+1];
-        Arrays.fill(dp,-1);
-        return func(n-1,dp);
+        dp[0] = 1;
+        dp[1] =1;
+        for(int i=2;i<=n;i++){
+            int one = dp[i-1];
+            int two = dp[i-2];
+            dp[i] = one + two;
+        }
+        return dp[n];
     }
-    private static int func(int ind,int dp[]){
-    if(ind<=0){
-        return 1;
-    }
-    if(dp[ind]!=-1){
-        return dp[ind];
-    }
-    int One = func(ind-1,dp);
-    int Two = func(ind-2,dp);
-    return dp[ind]=One + Two;
-}
 }
