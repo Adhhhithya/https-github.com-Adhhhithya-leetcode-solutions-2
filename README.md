@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
