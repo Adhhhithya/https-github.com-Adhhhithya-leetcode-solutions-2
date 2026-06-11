@@ -5,9 +5,9 @@ class Solution {
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int pair[]:edges){
-            int s =pair[0];
-            int d = pair[1];
+        for(int i=0;i<edges.length;i++){
+            int s =edges[i][0];
+            int d = edges[i][1];
             adj.get(s).add(d);
             adj.get(d).add(s);
         }
