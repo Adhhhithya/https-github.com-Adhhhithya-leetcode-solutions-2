@@ -23,26 +23,26 @@ class Solution {
         if(node==null) return null;
         HashMap<Node,Node> vis = new HashMap<>();
         Queue<Node> q = new LinkedList<>();
-        q.add(node);
         Node cloneStart = new Node(node.val);
         vis.put(node,cloneStart);
+        q.add(node);
 
         while(!q.isEmpty()){
             Node curr = q.poll();
-            Node cloneCurr = vis.get(curr);
+            Node currClone = vis.get(curr);
 
             for(Node neighbor : curr.neighbors){
                 if(!vis.containsKey(neighbor)){
                     Node cloneNeighbor = new Node(neighbor.val);
                     vis.put(neighbor,cloneNeighbor);
                     q.add(neighbor);
-                    cloneCurr.neighbors.add(cloneNeighbor);
+                    currClone.neighbors.add(cloneNeighbor);
                 }else{
-                    cloneCurr.neighbors.add(vis.get(neighbor));
+                    currClone.neighbors.add(vis.get(neighbor));
                 }
             }
         }
         return cloneStart;
-
+        
     }
 }
