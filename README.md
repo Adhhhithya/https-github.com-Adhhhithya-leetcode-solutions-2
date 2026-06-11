@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1971-find-if-path-exists-in-graph) |
@@ -124,17 +125,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
