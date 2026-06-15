@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0406-queue-reconstruction-by-height) |
 | [0630-course-schedule-iii](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0630-course-schedule-iii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0133-clone-graph) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
