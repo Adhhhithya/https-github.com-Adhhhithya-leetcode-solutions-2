@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/Adhhhithya/https-github.com-Adhhhithya-leetcode-solutions-2/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
